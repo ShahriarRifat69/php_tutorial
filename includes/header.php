@@ -20,5 +20,4 @@
           <li class="nav-item"><a class="nav-link" href="stringmanipulation.php">Simple String Manipulation</a></li>
           <li class="nav-item"><a class="nav-link" href="datetimemanipulation.php">Simple Date and Time Manipulation</a></li>
           <li class="nav-item"><a class="nav-link" href="functions.php">Simple Functions</a></li>
-          <li class="nav-item"><a class="nav-link" href="test.php">Testing Page</a></li>
-    </ul>
+     </ul>
